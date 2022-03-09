@@ -1,8 +1,7 @@
-This is a new file for git commands.
-. git init
-. git commit -m "Description"
-. git checkout
-. git push
-. git pull
-. git branch
-
+### Readme file for git commands.
+ - git push
+ - git pull
+ - git checkout
+ - git add
+ - git branch
+ - git init
